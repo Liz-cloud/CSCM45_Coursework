@@ -1,2 +1,6 @@
-# CSCM45_Coursework
-Object Recognition
+## CSCM45_Coursework - Object Recognition
+
+#Task
+The amount of image data is growing exponentially, due in part to convenient and cheap camera equipment. Teaching computers to recognise objects within a scene has tremendous application prospects, with applications ranging from medical diagnostics to Snapchat filters. Object recognition problems have been studied for years in machine learning and computer vision fields; however, it is still a challenging and open problem for both academic and industry researchers. The following task is hopefully your first small step on this interesting question within machine learning.
+
+You are provided with a small image dataset, where there are 100 different categories of objects, each of which has 500 images for training and 100 images for testing. Each individual image only contains one object. The task is to apply machine learning algorithms to classify the testing images into object categories. Code to compute image features and visualize an image is provided, you can use it to visualize the images and compute features to use in your machine learning algorithms. You will then use a model to perform classification and report quantitative results. You do not have to use all the provided code or methods discussed in the labs so far. You may add additional steps to the process if you wish. You are encouraged to use the implemented methodology from established Python packages taught in the labsheets (i.e. sklearn, skimage, keras, scipy,…). You must present a scientific approach, where you make suitable comparison between at least two methods.
